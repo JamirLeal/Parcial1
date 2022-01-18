@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(50, 50, 235, 0.616);
+}
+
+.elon-img {
+    width: 50%;
+    height: auto;
+    border: double 5px;
+}
+
+.cite-text {
+    font-size: 15px;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.timeline-text {
+    text-align: center;
+}
+
+.timeline-content > li {
+    padding-bottom: 15px;
+}
+
+footer {
+    margin-top: 50px;
+}
